@@ -1,0 +1,8 @@
+pandas
+requests
+ratelimit
+concurrent.futures
+json
+re
+collections
+OrderedDict
